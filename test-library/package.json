@@ -1,0 +1,23 @@
+{
+  "name": "test-library",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "peerDependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^6.3.0"
+  }
+}
